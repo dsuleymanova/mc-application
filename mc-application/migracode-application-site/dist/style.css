@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar&family=Quicksand:wght@300&display=swap');
+ body {
+                background-color:rgb(49, 134, 140);
+                text-align:center;
+               font-family: 'Eczar', serif;
+            }
+            h1 {
+                color:rgb(255,255,255);
+              font-style:italic;
+              font-size:2.5em;
+             
+              
+            }
+            p {
+                color:rgb(255,255,255);
+            }
+            #savonlinna-music-scene {
+                color:rgb(255,255,255);
+            }
+.header {
+  background-color:rgb(88, 184, 191);
+  padding: 20px;
+} 
+#toc {
+  text-align: left;
+  color:rgb(255,255,255)
+}
+a {
+  color:rgb(255,255,255);
+  font-style:italic;
+}
+h1 {
+  font-family: 'Quicksand', sans-serif;
+}
+figure{
+  color:rgb(255,255,255);
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+iframe {
+   max-width: 100%;
+    width: auto\9; /* ie8 */
+}
+th, td {
+  border: 1px solid;
+  padding: 10px;
+  text-align:center
+}
+th {
+  background-color: #cc9c43;
+  color: white;
+}
+td {
+  background-color: #;
+  color: white;
+  
+}
+tr:nth-child(even) {background-color: #4da9ab;}
+tr:nth-child(odd) {background-color: #449091;}
